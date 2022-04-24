@@ -1,0 +1,10 @@
+﻿  Gravity.cpp
+C:\Users\parth\Documents\openGL\GravitySimulation\OpenGLLearningApp\Gravity.h(19,36): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\parth\Documents\openGL\GravitySimulation\OpenGLLearningApp\Gravity.h(20,40): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  main.cpp
+C:\Users\parth\Documents\openGL\GravitySimulation\OpenGLLearningApp\Gravity.h(19,36): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\parth\Documents\openGL\GravitySimulation\OpenGLLearningApp\Gravity.h(20,40): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\parth\Documents\openGL\GravitySimulation\OpenGLLearningApp\main.cpp(182,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLLearningApp.vcxproj -> C:\Users\parth\Documents\openGL\GravitySimulation\Debug\OpenGLLearningApp.exe
