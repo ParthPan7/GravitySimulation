@@ -11,12 +11,13 @@ For instance, Freely falling object under influence of gravity decides to follow
 
 
 
-![alt text](https://learnopengl.com/img/getting-started/coordinate_systems_right_handed.png)
+![square pegs in round holes](https://learnopengl.com/img/getting-started/coordinate_systems_right_handed.png)
+
 _Figure 1 : right handed coordinate system OpenGL [1]._
 
 
 
-**Application of Physics**
+## **Application of Physics** ##
 
 ## What is known ?
 
