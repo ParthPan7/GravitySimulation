@@ -52,7 +52,7 @@ _t_ = delta time (difference in time frame)
 
 _g_ = gravitational acceleration of any celestial object
 
-_s_ = next relative position of object to be computed ( unknow )
+_s_ = next relative position of object to be computed ( unknown )
 
 **References:**
 
