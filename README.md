@@ -11,7 +11,7 @@ For instance, Freely falling object under influence of gravity decides to follow
 
 
 
-![square pegs in round holes](https://learnopengl.com/img/getting-started/coordinate_systems_right_handed.png)
+![right hand coordinate system](https://github.com/ParthPan7/GravitySimulation/blob/main/coordinate_systems_right_handed.png)
 
 _Figure 1 : right handed coordinate system OpenGL [1]._
 
