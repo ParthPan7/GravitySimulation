@@ -54,15 +54,20 @@ _g_ = gravitational acceleration of any celestial object
 
 _s_ = next relative position of object to be computed ( unknown )
 
-**Comparing Results of Varying Gravitational Fields in Different Celestial Objects**
+**Comparing Results of Varying Gravitational Fields occurs in Different Celestial Objects**
 
-The case study of gravitational free falling scenarios of two planets are compared namely Mars and Earth, where objects falling under's Earth's gravitational field's influence is visually observed faster in comparision to Mar's gravitational fields.
+The case study of gravitational free falling scenarios of two planets are compared namely Mars and Earth, where objects falling under's Earth's gravitational field's influence (Figure 2) is visually observed faster in comparision to Mar's gravitational field's influence (Figure 3).
 
 ![](https://github.com/ParthPan7/GravitySimulation/blob/main/EarthsGravity.gif)
-_OpenGl Earth's Free Fall result_
+
+_Figure 2 : OpenGl Earth's Free Fall result_
+
 
 ![](https://github.com/ParthPan7/GravitySimulation/blob/main/MarsGravity.gif)
-_OpenGl Mars's Free Fall result_
+
+_Figure 3 : OpenGl Mars's Free Fall result_
+
+
 
 
 **References:**
