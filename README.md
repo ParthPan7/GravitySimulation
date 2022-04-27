@@ -58,11 +58,13 @@ _s_ = next relative position of object to be computed ( unknown )
 
 The case study of gravitational free falling scenarios of two planets are compared namely Mars and Earth, where objects falling under's Earth's gravitational field's influence is visually observed faster in comparision to Mar's gravitational fields.
 
-![] (https://github.com/ParthPan7/GravitySimulation/blob/main/EarthsGravity.gif)
+![](https://github.com/ParthPan7/GravitySimulation/blob/main/EarthsGravity.gif)
 _OpenGl Earth's Free Fall result_
 
-![] (https://github.com/ParthPan7/GravitySimulation/blob/main/MarsGravity.gif)
+![](https://github.com/ParthPan7/GravitySimulation/blob/main/MarsGravity.gif)
 _OpenGl Mars's Free Fall result_
+
+
 **References:**
 
 [1]https://learnopengl.com/Getting-started/Coordinate-Systems
